@@ -54,6 +54,7 @@
   int main() {
     
    int arr[10],n,i;
+   printf("Enter the number of digits to be sorted.\n");
     scanf("%d",&n);
     for(i=0;i<n;i++)
     scanf("%d",&arr[i]);
